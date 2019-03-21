@@ -12,8 +12,8 @@ This project is designed for one to practice the Git/Github workflow here at Lam
   - [X] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [X} Create a Pull-Request to submit your work
   - [X] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your PM as a reviewer on the Pull-Request
-- [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [X] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## ADD your name here
 
